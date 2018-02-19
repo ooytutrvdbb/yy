@@ -19,7 +19,7 @@ class Channel:
     channel_query_path = "/CH4"
 
     UA = "Line/8.0.0"
-    LA = "WIN10\t8.1.1"    
+    LA = "CHROMEOS	1.4.13	Chrome_OS	1"    
 
     authToken = None
     mid = None
