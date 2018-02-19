@@ -19,7 +19,7 @@ class Poll:
   port = 443;
 
   UA = "Line/8.0.0"
-  LA = "WIN10\t8.1.1"      
+  LA = "CHROMEOS	1.4.13	Chrome_OS	1"      
 
   rev = 0
 
